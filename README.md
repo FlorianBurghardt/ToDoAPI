@@ -15,4 +15,5 @@
 <p>Further optional extensions:</p>
 <ul>
   <li>UnitTest (extension branch already available)</li>
+  <li>Swagger</li>
 </ul>
